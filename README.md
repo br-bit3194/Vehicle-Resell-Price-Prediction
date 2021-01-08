@@ -1,3 +1,3 @@
 # Vehicle-Resell-Price-Prediction
 ![alt_txt](https://github.com/br-bit3194/Vehicle-Resell-Price-Prediction/blob/main/images/vehicle_resell_price_pred.png)
-![alt_txt](https://github.com/br-bit3194/Vehicle-Resell-Price-Prediction/blob/main/images/price_showing.png)
+![alt_txt](https://github.com/br-bit3194/Vehicle-Resell-Price-Prediction/blob/main/images/price_showing.PNG)
